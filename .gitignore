@@ -1,9 +1,8 @@
 node_modules/
 .env
-smarttrails-backend/.env
-smarttrails-frontend/.env
-smarttrails-backend/node_modules/
-smarttrails-frontend/node_modules/
-smarttrails-frontend/build/
+*.env
 .DS_Store
+build/
+dist/
+coverage/
 *.zip
